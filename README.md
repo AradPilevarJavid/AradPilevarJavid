@@ -1,5 +1,5 @@
 ## Hello world 👋
-### My name is Arad and i have so much fun (Vibe)Coding and using linux or CS in general.😉
+### My name is Arad and i have so much fun Coding and using linux or CS in general.😉
 <!--
 #### my personality type is INTJ
 -->
