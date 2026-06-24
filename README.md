@@ -14,10 +14,10 @@
 
 
 📫 **How to reach me:**  
-- 🌐 Website: *coming soon*  
+- 🌐 Website: *coming soon*
+- 💼 LinkedIn: [Arad Pilevar Javid](https://www.linkedin.com/in/arad-pilevar-javid) 
 - 💬 Telegram: [@nerdysamurai](https://t.me/nerdysamurai)  
 - 📷 Instagram: [@arad__pj](https://instagram.com/arad__pj)  
-- 💼 LinkedIn: [Arad Pilevar Javid](https://www.linkedin.com/in/arad-pilevar-javid)
 
 
 
