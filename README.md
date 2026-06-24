@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world 👋
 ### My name is Arad and i have so much fun (Vibe)Coding and using linux or CS in general.😉
 <!--
 #### my personality type is INTJ
@@ -16,7 +16,6 @@
 📫 **How to reach me:**  
 - 🌐 Website: *coming soon*
 - 💼 LinkedIn: [Arad Pilevar Javid](https://www.linkedin.com/in/arad-pilevar-javid) 
-- 💬 Telegram: [@nerdysamurai](https://t.me/nerdysamurai)  
 - 📷 Instagram: [@arad__pj](https://instagram.com/arad__pj)  
 
 
