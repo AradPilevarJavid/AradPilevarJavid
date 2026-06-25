@@ -1,15 +1,17 @@
 ## Hello world 👋
 ### My name is Arad and i have so much fun Coding and using linux or CS in general.😉
+<br><br>
 <!--
 #### my personality type is INTJ
 -->
 <div align="center">
+<h2 align="center">📊 GitHub Stats:</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AradPilevarJavid&theme=dark)](https://git.io/streak-stats)
-![Arad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AradPilevarJavid&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AradPilevarJavid&layout=compact)
-
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Pedrojok01&show_icons=true&theme=transparent&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrojok01&hide_langs_below=.25&theme=transparent">
+</p>
 </div>
 
 
