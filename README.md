@@ -9,6 +9,7 @@
 
 ## 📊 GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AradPilevarJavid&theme=dark)](https://git.io/streak-stats)
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
