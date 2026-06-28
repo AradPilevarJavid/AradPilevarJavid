@@ -30,7 +30,7 @@
 - 💼 LinkedIn: [Arad Pilevar Javid](https://www.linkedin.com/in/arad-pilevar-javid) 
 - 📷 Instagram: [@arad__pj](https://instagram.com/arad__pj)  
 
-
+<br>
 
 
 
