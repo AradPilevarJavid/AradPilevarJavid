@@ -3,10 +3,8 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 ### My name is Arad and i have so much fun Coding and using linux or CS in general.😉
+<a href="https://16personalities.com/intj-personality"><img alt="16personalities" src="./svgs/MBTI.svg" /></a>
 <br><br>
-<!--
-#### my personality type is INTJ
--->
 
 <div align="center">
 
@@ -37,7 +35,7 @@
 
 ---
 ## Snake Animation
-![Snake Animation](https://github.com/AradPilevarJavid/AradPilevarJavid/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/AradPilevarJavid/AradPilevarJavid/output/github-contribution-grid-snake.svg)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
