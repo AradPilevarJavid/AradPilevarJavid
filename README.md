@@ -35,13 +35,15 @@
 
 <br>
 
-
-
+---
+## Snake Animation
+![Snake Animation](https://github.com/AradPilevarJavid/AradPilevarJavid/blob/output/github-contribution-grid-snake.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
    <!--
 **AradPilevarJavid/AradPilevarJavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
