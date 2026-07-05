@@ -3,6 +3,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 ### My name is Arad and I have so much fun coding and using Linux or CS in general. 😉
+
 <a href="https://16personalities.com/intj-personality">
   <svg xmlns="http://www.w3.org/2000/svg" width="208.25" height="28" role="img" aria-label="16PERSONALITIES: INTJ-A">
     <title>16PERSONALITIES: INTJ-A</title>
