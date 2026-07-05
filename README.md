@@ -1,4 +1,7 @@
 ## Hello world 👋
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
 ### My name is Arad and i have so much fun Coding and using linux or CS in general.😉
 <br><br>
 <!--
