@@ -25,4 +25,5 @@ jobs:
         with:
           commit_message: "Update snake animation"
           file_pattern: "github-snake*.svg"
-          token: ${{ secrets.GH_PAT }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
