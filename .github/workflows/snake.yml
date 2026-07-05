@@ -20,10 +20,11 @@ jobs:
             github-snake.svg
             github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update snake animation"
-          file_pattern: "github-snake*.svg"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      - name: Push SVGs to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
+          git add github-snake.svg github-snake-dark.svg
+          git diff --staged --quiet || git commit -m "Update snake animation"
+          git push
