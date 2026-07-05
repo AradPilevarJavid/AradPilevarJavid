@@ -20,25 +20,28 @@ jobs:
             github-snake.svg
             github-snake-dark.svg?palette=github-dark
 
-      - name: Debug – Check if GH_PAT secret exists
+      - name: Debug – Verify PAT secret
         run: |
-          if [ -z "${{ secrets.GH_PAT }}" ]; then
-            echo "❌ GH_PAT secret is empty or not set"
+          if [ -z "$TOKEN" ]; then
+            echo "❌ GH_PAT secret is EMPTY or not set!"
             exit 1
           else
-            echo "✅ GH_PAT secret is set (length: ${#1})"
+            echo "✅ GH_PAT secret is set (length: ${#TOKEN})"
           fi
         env:
           TOKEN: ${{ secrets.GH_PAT }}
 
-      - name: Commit and push SVGs
+      - name: Commit and push using PAT
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-snake.svg github-snake-dark.svg
           if git diff --staged --quiet; then
-            echo "No changes to commit."
+            echo "Nothing to commit."
           else
             git commit -m "Update snake animation"
-            git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+            # Push directly with PAT embedded in URL
+            git push https://x-access-token:$TOKEN@github.com/${{ github.repository }}.git HEAD:main
           fi
+        env:
+          TOKEN: ${{ secrets.GH_PAT }}
