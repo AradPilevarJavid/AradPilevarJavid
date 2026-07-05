@@ -2,8 +2,8 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-### My name is Arad and i have so much fun Coding and using linux or CS in general.😉
-<a href="https://16personalities.com/intj-personality"><img alt="16personalities" src="./svgs/MBTI.svg" /></a>
+### My name is Arad and I have so much fun coding and using Linux or CS in general. 😉
+<a href="https://16personalities.com/intj-personality"><img alt="MBTI: INTJ" src="./svgs/MBTI.svg" /></a>
 <br><br>
 
 <div align="center">
