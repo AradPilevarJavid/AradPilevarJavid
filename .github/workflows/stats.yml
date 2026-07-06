@@ -7,38 +7,27 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Checkout github-readme-stats (build dependency, not a fork)
-        uses: actions/checkout@v4
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          repository: anuraghazra/github-readme-stats
-          ref: master
-          path: grs
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&line_height=40
+          path: SVGs/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          node-version: 18
-
-      - name: Install dependencies
-        working-directory: grs
-        run: npm ci
-
-      - name: Start local stats server
-        working-directory: grs
-        env:
-          PAT_1: ${{ secrets.GH_STATS_TOKEN }}
-        run: |
-          npm start &
-          npx wait-on http://localhost:9000 --timeout 60000
-
-      - name: Fetch stats SVGs
-        run: |
-          curl -sf "http://localhost:9000/api?username=${{ github.repository_owner }}&show_icons=true&theme=dark&line_height=40" -o SVGs/stats.svg
-          curl -sf "http://localhost:9000/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=dark" -o SVGs/top-langs.svg
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark
+          path: SVGs/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |
