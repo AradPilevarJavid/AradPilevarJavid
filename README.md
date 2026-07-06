@@ -18,10 +18,9 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td style="border: none; padding: 0 5px 0 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=AradPilevarJavid&show_icons=true&theme=dark&line_height=40" />
-    </td>
+      <img src="SVGs/stats.svg" />    </td>
     <td style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradPilevarJavid&layout=compact&theme=dark" />
+      <img src="SVGs/top-langs.svg" />
     </td>
   </tr>
 </table>
