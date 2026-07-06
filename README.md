@@ -13,14 +13,18 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](SVGs/streak.svg)](https://git.io/streak-stats)
-
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td style="border: none; padding: 0 5px 0 0;">
-      <img src="SVGs/stats.svg" />    </td>
-    <td style="border: none; padding: 0;">
+      <img src="SVGs/stats.svg" />
+    </td>
+    <td style="border: none; padding: 0 5px 0 0;">
       <img src="SVGs/top-langs.svg" />
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://git.io/streak-stats">
+        <img src="SVGs/streak.svg" />
+      </a>
     </td>
   </tr>
 </table>
