@@ -3,9 +3,28 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 ### My name is Arad and I have so much fun coding and using Linux or CS in general. 😉
+I am genuinely appreciative of constructive critisim and I love to learn from my mistakes. Always feel free to open an issue.
+
 <a href="https://16personalities.com/intj-personality">
   <img alt="16PERSONALITIES: INTJ-A" src="https://raw.githubusercontent.com/AradPilevarJavid/AradPilevarJavid/main/SVGs/intj-badge.svg" />
 </a>
+
+
+## Currently
+
+- Studying Computer Engineering
+- Learning Machine Learning and Data Science
+- Building open-source developer tools
+- Daily Linux user (Arch KDE)
+
+
+<tr>
+  
+<p align="center">
+<i>"Singularity is close."</i>
+</p>
+
+
 <br><br>
 
 
