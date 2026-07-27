@@ -21,7 +21,7 @@ I am genuinely appreciative of constructive critisim and I love to learn from my
 <tr>
   
 <p align="center">
-<i>"Singularity is close."</i>
+<b><i>"Singularity is close."</i> </b>
 </p>
 
 
