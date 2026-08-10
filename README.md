@@ -1,6 +1,8 @@
 ## Hello world 👋
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+   <!--
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+-->
 
 ### My name is Arad and I have so much fun coding and using Linux or CS in general. 😉
 I am genuinely appreciative of constructive critisim and I love to learn from my mistakes. Always feel free to open an issue.
