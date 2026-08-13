@@ -61,14 +61,16 @@ I am genuinely appreciative of constructive critisim and I love to learn from my
 <br>
 
 ---
+<!--
 ## Snake Animation
-<div align="center">
+-->
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
     <img alt="github contribution grid snake animation" src="github-snake.svg" />
   </picture>
-</div>
+</div> -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
