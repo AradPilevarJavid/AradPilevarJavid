@@ -1,5 +1,27 @@
 ## Hello world 👋
 
+<div align="center">
+
+<!-- Added: typing banner via readme-typing-svg (free, no setup needed).
+     Edit the "lines" param to change what it cycles through. -->
+<a href="https://github.com/AradPilevarJavid">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student;Learning+Machine+Learning+%26+Data+Science;Building+Open-Source+Dev+Tools;Arch+Linux+%2B+Rust+%2F+Python" alt="typing banner">
+</a>
+
+<br>
+
+<!-- Added: badge versions of the same links in "How to reach me" below -->
+<a href="https://www.linkedin.com/in/arad-pilevar-javid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://instagram.com/arad__pj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
+<a href="https://aradpilevarjavid.ir"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+
+<br>
+
+<!-- Added: profile view counter -->
+<img src="https://komarev.com/ghpvc/?username=AradPilevarJavid&style=flat&color=58A6FF&label=profile+views" alt="profile views">
+
+</div>
+
    <!--
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 -->
@@ -18,6 +40,15 @@ I am genuinely appreciative of constructive critisim and I love to learn from my
 - Learning Machine Learning and Data Science
 - Building open-source developer tools
 - Daily Linux user (Arch KDE)
+
+<!-- Added: tech stack row via skillicons.dev, reflects what you've actually used -->
+<div align="center">
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,rust,git,github,linux,arch,docker,kubernetes,nextjs,react,tailwind,pandas&perline=8" alt="tech stack icons">
+
+</div>
 
 
 <tr>
