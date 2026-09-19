@@ -1,0 +1,12 @@
+{
+  "title": "Language / tool mix",
+  "max": 5,
+  "items": [
+    { "label": "Python", "value": 3 },
+    { "label": "Rust", "value": 2 },
+    { "label": "TypeScript", "value": 2 },
+    { "label": "C/C++", "value": 2 },
+    { "label": "Bash", "value": 2 },
+    { "label": "SQL", "value": 1 }
+  ]
+}

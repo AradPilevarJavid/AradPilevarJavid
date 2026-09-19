@@ -1,0 +1,9 @@
+{
+  "prompt": "arad@arch:~$",
+  "lines": [
+    { "prompt": "arad@arch:~$", "text": "whoami" },
+    { "text": "Arad Pilevar Javid — Computer Engineering student", "accent": true },
+    { "prompt": "arad@arch:~$", "text": "cat interests.txt" },
+    { "text": "Machine Learning / Data Science, open-source tools, Rust, Linux" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Skills (self-rated)",
+  "max": 5,
+  "items": [
+    { "label": "Python", "value": 3 },
+    { "label": "Rust", "value": 2 },
+    { "label": "C++", "value": 2 },
+    { "label": "ML / Data", "value": 2 },
+    { "label": "Linux", "value": 3 },
+    { "label": "Web Dev", "value": 2 }
+  ]
+}
