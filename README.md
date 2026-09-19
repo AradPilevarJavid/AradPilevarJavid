@@ -105,19 +105,20 @@ I am genuinely appreciative of constructive critisim and I love to learn from my
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="border: none; padding: 0 5px 0 0;">
-      <img src="SVGs/stats.svg" />
+    <td width="50%" align="center" valign="middle">
+      <img src="SVGs/stats.svg" width="100%" />
     </td>
-    <td style="border: none; padding: 0 5px 0 0;">
-      <img src="SVGs/top-langs.svg" />
-    </td>
-    <td style="border: none; padding: 0;">
-      <a href="https://git.io/streak-stats">
-        <img src="SVGs/streak.svg" />
-      </a>
+    <td width="50%" align="center" valign="middle">
+      <img src="SVGs/top-langs.svg" width="100%" />
     </td>
   </tr>
 </table>
+
+<br>
+
+<a href="https://git.io/streak-stats">
+  <img src="SVGs/streak.svg" width="65%" />
+</a>
 
 </div>
 
