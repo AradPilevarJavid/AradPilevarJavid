@@ -84,12 +84,7 @@ I am genuinely appreciative of constructive critisim and I love to learn from my
 </div>
 
 
-📫 **How to reach me:**  
-- 🌐 Website: [aradpilevarjavid](https://aradpilevarjavid.ir) (currently down because I haven't paid for the VPS)
-- 💼 LinkedIn: [Arad Pilevar Javid](https://www.linkedin.com/in/arad-pilevar-javid) 
-- 📷 Instagram: [@arad__pj](https://instagram.com/arad__pj)  
 
-<br>
 
 ---
 <!--
@@ -106,14 +101,3 @@ I am genuinely appreciative of constructive critisim and I love to learn from my
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-   <!--
-**AradPilevarJavid/AradPilevarJavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
