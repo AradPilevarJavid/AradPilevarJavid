@@ -102,8 +102,8 @@ I am genuinely appreciative of constructive critisim and I love to learn from my
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<table border="0" cellpadding="0" cellspacing="0">
+<!--
+<table border="10" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="middle">
       <img src="SVGs/stats.svg" width="100%" />
@@ -113,6 +113,11 @@ I am genuinely appreciative of constructive critisim and I love to learn from my
     </td>
   </tr>
 </table>
+-->
+
+<a href="https://git.io/streak-stats">
+  <img src="SVGs/top-langs.svg" width="50%" />
+</a>
 
 <br>
 
