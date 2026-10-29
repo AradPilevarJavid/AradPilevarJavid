@@ -25,7 +25,6 @@
 <a href="https://instagram.com/arad__pj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
 <a href="https://aradpilevarjavid.github.io/portfolio/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 
-
 <br>
 
 <!-- Added: profile view counter -->
