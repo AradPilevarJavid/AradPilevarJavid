@@ -23,7 +23,7 @@
 <!-- Added: badge versions of the same links in "How to reach me" below -->
 <a href="https://www.linkedin.com/in/arad-pilevar-javid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
 <a href="https://instagram.com/arad__pj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
-<a href="https://aradpilevarjavid.ir"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://aradpilevarjavid.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 
 <br>
 
