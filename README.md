@@ -131,7 +131,8 @@ I am genuinely appreciative of constructive critisim and I love to learn from my
 📫 **How to reach me:**  
 - 🌐 Website: [aradpilevarjavid](https://aradpilevarjavid.github.io/portfolio)
 - 💼 LinkedIn: [Arad Pilevar Javid](https://www.linkedin.com/in/arad-pilevar-javid) 
-- 📷 Instagram: [@arad__pj](https://instagram.com/arad__pj)  
+- 📷 Instagram: [@arad__pj](https://instagram.com/arad__pj)
+- Gitranks: [AradPilevarJavid](https://gitranks.com/profile/AradPilevarJavid)
 
 <br>
 
